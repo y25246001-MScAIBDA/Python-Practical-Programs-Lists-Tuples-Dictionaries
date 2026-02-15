@@ -1,9 +1,3 @@
-"""
-PYTHON PRACTICAL PROGRAMS
-Lists (15) + Tuples (15) + Dictionaries (10)
-Total = 40 Programs
-"""
-
 # =====================================================
 # 🔵 LIST PROGRAMS
 # =====================================================
